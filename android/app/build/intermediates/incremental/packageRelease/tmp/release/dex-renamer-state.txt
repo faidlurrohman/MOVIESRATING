@@ -1,0 +1,4 @@
+#Tue Mar 10 19:56:31 WIB 2020
+base.0=/home/faidhamburger/ReactNative/batch5/Week7/Faid/MoviesRating/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

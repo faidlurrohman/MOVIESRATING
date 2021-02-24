@@ -1,4 +1,3 @@
-REDU
 =================================
 
 Movies Rating App similar with IMDB, develop with React Native
